@@ -1,6 +1,9 @@
 # AngularJS-User-Management
 Before start make sure you installed latest angular, angular/cli and npm. If you are using older version, please update to latest version.
 
+First install Node Package Management from below link.
+https://nodejs.org/en/download/
+
 To install angular js, check the instructions in following link.
 
 https://angular.io/guide/quickstart
