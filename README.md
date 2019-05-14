@@ -1,23 +1,21 @@
 # AngularJS-User-Management
 Before start make sure you installed latest angular, angular/cli and npm. If you are using older version, please update to latest version.
 Here I used
-npm 6.4.1
+# npm 6.4.1
 
-Angular CLI: 7.3.9
-Node: 10.15.3
-OS: darwin x64
-Angular: 
-... 
-
+# Angular CLI: 7.3.9
+# Node: 10.15.3
+# OS: darwin x64
+# Angular: 
 Package                      Version
 ------------------------------------------------------
-@angular-devkit/architect    0.13.9
-@angular-devkit/core         7.3.9
-@angular-devkit/schematics   7.3.9
-@schematics/angular          7.3.9
-@schematics/update           0.13.9
-rxjs                         6.3.3
-typescript                   3.2.4
+# @angular-devkit/architect    0.13.9
+# @angular-devkit/core         7.3.9
+# @angular-devkit/schematics   7.3.9
+# @schematics/angular          7.3.9
+# @schematics/update           0.13.9
+# rxjs                         6.3.3
+# typescript                   3.2.4
 
 My first sample project with AngularJS. In this project I created very simple user management. It has a login page with hard code email and password to login. Add 5 sample users array and create list of users. Also added for Add, Edit and Delete with Browser storage.
 
